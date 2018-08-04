@@ -71,6 +71,7 @@
            }
 
            table.appendRows(tabledata);
+           console.log(table)
            doneCallback();
        } }
       );
